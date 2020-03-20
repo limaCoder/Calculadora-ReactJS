@@ -2,4 +2,4 @@
 
 Calculadora feita em ReactJS
 
-![] (src/img/Screenshot.png)
+![](src/img/Screenshot.png)
